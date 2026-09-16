@@ -61,7 +61,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -147,7 +147,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>550</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -230,7 +230,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>700</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -312,7 +312,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>600</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -393,7 +393,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -475,7 +475,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>3-7 лет</WorkExperience>
+    <WorkExperience>3–7 лет</WorkExperience>
     <MinimumOrderAmount>650</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -559,7 +559,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>750</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -642,7 +642,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>850</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -729,7 +729,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>900</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -812,7 +812,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>950</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -896,7 +896,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>1000</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -979,7 +979,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>1100</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -1066,7 +1066,7 @@
     <RoomType>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>1200</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -1153,7 +1153,7 @@
     <RoomType>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>1250</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -1240,7 +1240,7 @@
     <RoomType>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>1300</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -1322,7 +1322,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>3-7 лет</WorkExperience>
+    <WorkExperience>3–7 лет</WorkExperience>
     <MinimumOrderAmount>750</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -1406,7 +1406,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -1492,7 +1492,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>550</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -1575,7 +1575,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>700</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -1657,7 +1657,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>600</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -1738,7 +1738,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -1820,7 +1820,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>3-7 лет</WorkExperience>
+    <WorkExperience>3–7 лет</WorkExperience>
     <MinimumOrderAmount>650</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -1904,7 +1904,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>750</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -1987,7 +1987,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>850</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -2074,7 +2074,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>900</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -2157,7 +2157,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>950</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -2241,7 +2241,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>1000</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -2324,7 +2324,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>1100</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -2408,7 +2408,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -2495,7 +2495,7 @@
     <RoomType>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>1250</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -2582,7 +2582,7 @@
     <RoomType>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>1300</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -2664,7 +2664,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>3-7 лет</WorkExperience>
+    <WorkExperience>3–7 лет</WorkExperience>
     <MinimumOrderAmount>750</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -2748,7 +2748,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -2834,7 +2834,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>550</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -2917,7 +2917,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>700</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -2999,7 +2999,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>600</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -3080,7 +3080,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -3162,7 +3162,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>3-7 лет</WorkExperience>
+    <WorkExperience>3–7 лет</WorkExperience>
     <MinimumOrderAmount>650</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -3246,7 +3246,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>750</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -3329,7 +3329,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>850</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -3416,7 +3416,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>900</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -3499,7 +3499,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>950</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -3583,7 +3583,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>1000</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -3666,7 +3666,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>1100</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -3750,7 +3750,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -3836,7 +3836,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>550</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -3919,7 +3919,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>700</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -4001,7 +4001,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>600</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -4082,7 +4082,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -4164,7 +4164,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>3-7 лет</WorkExperience>
+    <WorkExperience>3–7 лет</WorkExperience>
     <MinimumOrderAmount>650</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -4248,7 +4248,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>750</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -4331,7 +4331,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>850</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -4418,7 +4418,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>900</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -4501,7 +4501,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>950</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -4585,7 +4585,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>1000</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -4668,7 +4668,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>1100</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -4752,7 +4752,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -4838,7 +4838,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>550</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -4921,7 +4921,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>700</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -5003,7 +5003,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>600</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -5084,7 +5084,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -5166,7 +5166,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>3-7 лет</WorkExperience>
+    <WorkExperience>3–7 лет</WorkExperience>
     <MinimumOrderAmount>650</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -5250,7 +5250,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>750</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -5333,7 +5333,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>850</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -5420,7 +5420,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>900</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -5503,7 +5503,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>950</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -5587,7 +5587,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>1000</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -5670,7 +5670,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>1100</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -5754,7 +5754,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -5840,7 +5840,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>550</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -5923,7 +5923,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>700</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -6005,7 +6005,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>600</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -6086,7 +6086,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -6168,7 +6168,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>3-7 лет</WorkExperience>
+    <WorkExperience>3–7 лет</WorkExperience>
     <MinimumOrderAmount>650</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -6252,7 +6252,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>750</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -6335,7 +6335,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>850</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -6422,7 +6422,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>900</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -6505,7 +6505,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>950</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -6589,7 +6589,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>1000</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -6672,7 +6672,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>1100</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -6756,7 +6756,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -6840,7 +6840,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -6926,7 +6926,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>550</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -7009,7 +7009,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>700</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -7091,7 +7091,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>600</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -7172,7 +7172,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -7254,7 +7254,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>3-7 лет</WorkExperience>
+    <WorkExperience>3–7 лет</WorkExperience>
     <MinimumOrderAmount>650</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -7338,7 +7338,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>750</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -7421,7 +7421,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>850</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -7508,7 +7508,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>900</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -7591,7 +7591,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>950</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -7675,7 +7675,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>1000</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -7758,7 +7758,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>1100</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -7842,7 +7842,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -7928,7 +7928,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>550</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -8011,7 +8011,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>700</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -8093,7 +8093,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>600</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -8174,7 +8174,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -8256,7 +8256,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>3-7 лет</WorkExperience>
+    <WorkExperience>3–7 лет</WorkExperience>
     <MinimumOrderAmount>650</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -8340,7 +8340,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>750</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -8423,7 +8423,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>850</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -8510,7 +8510,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>900</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -8593,7 +8593,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>950</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -8677,7 +8677,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>1000</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -8760,7 +8760,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>1100</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -8844,7 +8844,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -8930,7 +8930,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>550</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -9013,7 +9013,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>700</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -9095,7 +9095,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>600</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -9176,7 +9176,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -9258,7 +9258,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>3-7 лет</WorkExperience>
+    <WorkExperience>3–7 лет</WorkExperience>
     <MinimumOrderAmount>650</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -9342,7 +9342,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>750</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -9425,7 +9425,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>850</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -9512,7 +9512,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>900</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -9595,7 +9595,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>950</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -9679,7 +9679,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>1000</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -9762,7 +9762,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>1100</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -9846,7 +9846,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -9932,7 +9932,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>550</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -10015,7 +10015,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>700</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -10097,7 +10097,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>600</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -10178,7 +10178,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -10260,7 +10260,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>3-7 лет</WorkExperience>
+    <WorkExperience>3–7 лет</WorkExperience>
     <MinimumOrderAmount>650</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -10344,7 +10344,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>750</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -10427,7 +10427,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>850</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -10514,7 +10514,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>900</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -10597,7 +10597,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>950</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -10681,7 +10681,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>1000</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -10764,7 +10764,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>1100</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -10848,7 +10848,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -10934,7 +10934,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>550</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -11017,7 +11017,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>700</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -11099,7 +11099,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>600</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -11180,7 +11180,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -11262,7 +11262,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>3-7 лет</WorkExperience>
+    <WorkExperience>3–7 лет</WorkExperience>
     <MinimumOrderAmount>650</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -11346,7 +11346,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>750</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -11429,7 +11429,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>850</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -11516,7 +11516,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>900</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -11599,7 +11599,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>950</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -11683,7 +11683,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>1000</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -11766,7 +11766,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>1100</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -11850,7 +11850,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -11936,7 +11936,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>550</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -12019,7 +12019,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>700</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -12101,7 +12101,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>600</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -12182,7 +12182,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -12264,7 +12264,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>3-7 лет</WorkExperience>
+    <WorkExperience>3–7 лет</WorkExperience>
     <MinimumOrderAmount>650</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -12348,7 +12348,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>750</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -12431,7 +12431,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>850</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -12518,7 +12518,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>900</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -12602,7 +12602,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -12688,7 +12688,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>550</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -12771,7 +12771,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>700</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -12853,7 +12853,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>600</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -12934,7 +12934,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -13016,7 +13016,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>3-7 лет</WorkExperience>
+    <WorkExperience>3–7 лет</WorkExperience>
     <MinimumOrderAmount>650</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -13100,7 +13100,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>750</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -13183,7 +13183,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>850</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -13270,7 +13270,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>900</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -13353,7 +13353,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>950</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -13437,7 +13437,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>1000</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -13520,7 +13520,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>1100</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -13604,7 +13604,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -13690,7 +13690,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>550</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -13773,7 +13773,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>700</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -13855,7 +13855,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>600</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -13936,7 +13936,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -14018,7 +14018,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>3-7 лет</WorkExperience>
+    <WorkExperience>3–7 лет</WorkExperience>
     <MinimumOrderAmount>650</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -14102,7 +14102,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>750</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -14185,7 +14185,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>850</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -14272,7 +14272,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>900</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -14355,7 +14355,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>950</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -14439,7 +14439,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>1000</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -14522,7 +14522,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>1100</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -14606,7 +14606,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -14692,7 +14692,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>550</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -14775,7 +14775,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>700</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -14857,7 +14857,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>600</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -14938,7 +14938,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -15020,7 +15020,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>3-7 лет</WorkExperience>
+    <WorkExperience>3–7 лет</WorkExperience>
     <MinimumOrderAmount>650</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -15104,7 +15104,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>750</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -15187,7 +15187,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>850</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -15274,7 +15274,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>900</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -15357,7 +15357,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>950</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -15441,7 +15441,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>1000</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -15524,7 +15524,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>1100</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -15608,7 +15608,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -15692,7 +15692,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -15778,7 +15778,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>550</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -15861,7 +15861,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>700</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -15943,7 +15943,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>600</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -16024,7 +16024,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -16106,7 +16106,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>3-7 лет</WorkExperience>
+    <WorkExperience>3–7 лет</WorkExperience>
     <MinimumOrderAmount>650</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -16190,7 +16190,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>750</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -16273,7 +16273,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>850</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -16360,7 +16360,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>900</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -16443,7 +16443,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>950</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -16527,7 +16527,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>1000</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -16611,7 +16611,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -16697,7 +16697,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>550</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -16780,7 +16780,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>700</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -16862,7 +16862,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>600</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -16943,7 +16943,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -17025,7 +17025,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>3-7 лет</WorkExperience>
+    <WorkExperience>3–7 лет</WorkExperience>
     <MinimumOrderAmount>650</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -17109,7 +17109,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>750</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -17192,7 +17192,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>850</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -17279,7 +17279,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>900</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -17362,7 +17362,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>950</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -17446,7 +17446,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>1000</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -17529,7 +17529,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>1100</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -17613,7 +17613,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -17697,7 +17697,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -17783,7 +17783,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>550</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -17866,7 +17866,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>700</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -17948,7 +17948,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>600</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -18029,7 +18029,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -18111,7 +18111,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>3-7 лет</WorkExperience>
+    <WorkExperience>3–7 лет</WorkExperience>
     <MinimumOrderAmount>650</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -18195,7 +18195,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>750</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -18278,7 +18278,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>850</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -18365,7 +18365,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>900</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -18448,7 +18448,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>950</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -18532,7 +18532,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>1000</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -18615,7 +18615,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>1100</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -18699,7 +18699,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -18783,7 +18783,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -18869,7 +18869,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>550</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -18952,7 +18952,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>700</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -19034,7 +19034,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>600</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -19115,7 +19115,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -19197,7 +19197,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>3-7 лет</WorkExperience>
+    <WorkExperience>3–7 лет</WorkExperience>
     <MinimumOrderAmount>650</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -19281,7 +19281,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>750</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -19364,7 +19364,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>850</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -19451,7 +19451,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>900</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -19534,7 +19534,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>950</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -19618,7 +19618,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>1000</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -19701,7 +19701,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>1100</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -19785,7 +19785,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -19871,7 +19871,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>550</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -19954,7 +19954,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>700</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -20036,7 +20036,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>600</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -20117,7 +20117,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -20199,7 +20199,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>3-7 лет</WorkExperience>
+    <WorkExperience>3–7 лет</WorkExperience>
     <MinimumOrderAmount>650</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -20283,7 +20283,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>750</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -20366,7 +20366,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>850</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -20453,7 +20453,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>900</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -20536,7 +20536,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>950</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -20620,7 +20620,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>1000</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -20703,7 +20703,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>1100</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -20787,7 +20787,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -20871,7 +20871,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -20957,7 +20957,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>550</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -21040,7 +21040,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>700</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -21122,7 +21122,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>600</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -21203,7 +21203,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -21285,7 +21285,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>3-7 лет</WorkExperience>
+    <WorkExperience>3–7 лет</WorkExperience>
     <MinimumOrderAmount>650</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -21369,7 +21369,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>750</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -21452,7 +21452,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>850</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -21539,7 +21539,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>900</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -21622,7 +21622,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>950</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -21706,7 +21706,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>1000</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -21789,7 +21789,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>Более 10 лет</WorkExperience>
+    <WorkExperience>10 лет и больше</WorkExperience>
     <MinimumOrderAmount>1100</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -21873,7 +21873,7 @@
     <RoomType>
       <Option>Жилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>800</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -21957,7 +21957,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -22045,7 +22045,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -22133,7 +22133,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -22221,7 +22221,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -22309,7 +22309,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -22397,7 +22397,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -22485,7 +22485,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -22573,7 +22573,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -22661,7 +22661,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -22749,7 +22749,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -22837,7 +22837,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -22925,7 +22925,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -23013,7 +23013,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -23101,7 +23101,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -23189,7 +23189,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -23277,7 +23277,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -23365,7 +23365,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -23453,7 +23453,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -23541,7 +23541,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -23629,7 +23629,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -23717,7 +23717,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -23805,7 +23805,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -23893,7 +23893,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -23981,7 +23981,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -24069,7 +24069,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -24157,7 +24157,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -24245,7 +24245,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -24333,7 +24333,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
@@ -24421,7 +24421,7 @@
       <Option>Жилое</Option>
       <Option>Нежилое</Option>
     </RoomType>
-    <WorkExperience>7-10 лет</WorkExperience>
+    <WorkExperience>7–10 лет</WorkExperience>
     <MinimumOrderAmount>500</MinimumOrderAmount>
     <WorkWithLegalEntities>Да</WorkWithLegalEntities>
     <PriceList>
